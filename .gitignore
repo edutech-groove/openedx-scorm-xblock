@@ -1,0 +1,6 @@
+dist/
+openedx_scorm_xblock.egg-info
+*.pyc
+*~
+var/workbench.log*
+.tox
