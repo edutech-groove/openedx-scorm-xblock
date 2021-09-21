@@ -1,5 +1,5 @@
 dist/
-openedx_scorm_xblock.egg-info
+*.egg-info
 *.pyc
 *~
 var/workbench.log*
